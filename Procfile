@@ -1,1 +1,1 @@
-web: gunicorn Jane:app --log-file=-
+web: gunicorn flaskApp.py:app --log-file=-
