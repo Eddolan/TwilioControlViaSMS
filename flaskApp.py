@@ -1,6 +1,4 @@
 """
-Let me know if you need credentials for anything like mongo, heroku or twilio to debug
-
 todo:
 2) implement the variable referenced in code as 'unique_id' # be sure to read my notes on uniqueID
 3) implement method specified as receive_instructions().parser_call()
