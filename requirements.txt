@@ -1,0 +1,11 @@
+Flask==0.10.1
+Jinja2==2.7.3
+MarkupSafe==0.23
+Werkzeug==0.9.6
+gunicorn==19.1.1
+httplib2==0.9
+itsdangerous==0.24
+pymongo==2.7.2
+six==1.8.0
+twilio==3.6.7
+wsgiref==0.1.2
